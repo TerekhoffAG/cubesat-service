@@ -33,6 +33,5 @@ build/
 .vscode/
 
 ########## Spring boot local config ##########
-cubesat-service/src/main/resources/application.yaml
-cubesat-service/src/main/resources/application.properties
-
+src/main/resources/application.yaml
+src/main/resources/application.properties
