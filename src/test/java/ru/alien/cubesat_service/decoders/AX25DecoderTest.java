@@ -1,4 +1,4 @@
-package ru.alien.cubesat_service.decoder;
+package ru.alien.cubesat_service.decoders;
 
 import org.junit.jupiter.api.Test;
 
